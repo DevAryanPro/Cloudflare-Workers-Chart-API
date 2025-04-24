@@ -5,8 +5,13 @@
 
 A Cloudflare Worker that generates PNG charts from URL parameters using Chart.js. Easily create visualizations by just constructing a URL.
 
+### Basic Bar Chart
 ![alt text](https://raw.githubusercontent.com/DevAryanPro/Cloudflare-Workers-Chart-API/refs/heads/main/download%20(1).png)
+
+### Pie Chart with Custom Colors
 ![alt text](https://raw.githubusercontent.com/DevAryanPro/Cloudflare-Workers-Chart-API/refs/heads/main/download%20(2).png)
+
+### Line Chart Without Grid
 ![alt text](https://raw.githubusercontent.com/DevAryanPro/Cloudflare-Workers-Chart-API/refs/heads/main/download%20(3).png)
 
 ## Features
